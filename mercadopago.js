@@ -1,2 +1,3 @@
 const m = 'mercado pago'
-console.count(m)
+const p = 'pagamento'
+console.log(m)
