@@ -1,3 +1,4 @@
 const m = 'mercado pago'
 copnst d = 'devedor'
-console.count(m)
+const p = 'pagamento'
+console.log(m,p,d)
